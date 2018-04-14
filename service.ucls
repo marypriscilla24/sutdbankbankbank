@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="sg.edu.sutd.bank.webapp.service.TransactionCodesDAOImp" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/TransactionCodesDAOImp.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="104" width="213" x="63" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="sg.edu.sutd.bank.webapp.service.ClientAccountDAO" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/ClientAccountDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="104" width="190" x="316" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="sg.edu.sutd.bank.webapp.service.TransactionCodesDAO" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/TransactionCodesDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="86" width="193" x="63" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="4" language="java" name="sg.edu.sutd.bank.webapp.service.AbstractDAOImpl" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/AbstractDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="283" width="362" x="718" y="-176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="sg.edu.sutd.bank.webapp.service.EmailServiceImp" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/EmailServiceImp.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1395" y="-97"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="sg.edu.sutd.bank.webapp.service.ClientAccountDAOImpl" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/ClientAccountDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="122" width="190" x="316" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="sg.edu.sutd.bank.webapp.service.UserRoleDAO" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/UserRoleDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="86" width="176" x="1421" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="sg.edu.sutd.bank.webapp.service.ClientTransactionDAOImpl" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/ClientTransactionDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="158" width="301" x="810" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="sg.edu.sutd.bank.webapp.service.UserDAO" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/UserDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="122" width="224" x="546" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" language="java" name="sg.edu.sutd.bank.webapp.service.EmailService" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/EmailService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1397" y="48"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="sg.edu.sutd.bank.webapp.service.ClientTransactionDAO" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/ClientTransactionDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="140" width="301" x="810" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="sg.edu.sutd.bank.webapp.service.UserDAOImpl" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/UserDAOImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="140" width="224" x="546" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="sg.edu.sutd.bank.webapp.service.ClientInfoDAO" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/ClientInfoDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="122" width="230" x="1151" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="sg.edu.sutd.bank.webapp.service.ClientInfoDAOImpl" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/ClientInfoDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="140" width="230" x="1151" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="sg.edu.sutd.bank.webapp.service.UserRoleDAOImpl" project="sutdbank" 
+    file="/sutdbank/src/main/java/sg/edu/sutd/bank/webapp/service/UserRoleDAOImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="104" width="176" x="1421" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="16">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="17">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="19">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="20">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="25">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <realization id="26">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <realization id="27">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </realization>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="29">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="30" name="transactionDAO">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
